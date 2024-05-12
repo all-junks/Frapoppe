@@ -1,5 +1,7 @@
 <h1 align="center">Frapoppé</h1>
 
+<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe.png"/></h1>
+
 <h1 align="center">
   <img src="https://img.shields.io/badge/OS-Linux_Only-f9e2af?style=for-the-badge&logo=linux&logoColor=f9e2af"/>
   <img src="https://img.shields.io/badge/Style-CSS-89b4fa?style=for-the-badge&logo=css3&logoColor=89b4fa"/>
