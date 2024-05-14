@@ -32,7 +32,7 @@ This theme's accent is based on the Catppuccin Frappé Sky accent theme
 ## How to install theme (manually) (SECOND MOST RECOMMENDED AS IT MAY NOT WORK IN ALL DISTROS):-
 
 · Open terminal & type:-
-<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; mv Frapoppe-(theme) ~/.themes/</pre>
+<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; mv Frapoppe-theme ~/.themes/</pre>
 
 ### NOTE:- You may need to restart / logout-login to your system before applying the theme
 
@@ -41,11 +41,11 @@ This theme's accent is based on the Catppuccin Frappé Sky accent theme
 ## How to install theme (manually) (MAY DAMAGE YOUR SYSTEM IF YOU'RE NOT CAREFUL):-
 
 · Open terminal & type:-
-<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; sudo mv Frapoppe-(theme) /usr/share/themes/</pre>
+<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; sudo mv Frapoppe-theme /usr/share/themes/</pre>
 
 OR
 
-· Open your file manager & move/copy the <code>Frapoppe-(theme)</code> folder to <code>/usr/share/themes/ </code> directory
+· Open your file manager & move/copy the <code>Frapoppe-theme</code> folder to <code>/usr/share/themes/ </code> directory
 
 ### NOTE:- You may need to restart / logout-login to your system before applying the theme
 
