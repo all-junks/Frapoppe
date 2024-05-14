@@ -1,4 +1,4 @@
-<h1 align="center">Frapoppé</h1>
+# <h1 align="center">Frapoppé</h1>
 
 <h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe.png"/></h1>
 
