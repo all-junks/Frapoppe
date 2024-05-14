@@ -16,7 +16,7 @@ A Catppuccin-based (Original Catppuccin theme by Fausto-Korpsvart, based on the 
 
 This theme's accent is based on the Catppuccin Frappé Sky accent theme
 
-## NOTE:- Before you go through these steps, unzip the <code>Frapoppe-(theme)</code> zip file
+## NOTE:- Before you go through these steps, unzip the <code>Frapoppe-theme</code> zip file
 
 ## How to install theme (using ba(sh) / ./) (RECOMMENDED AS ITS MOST SAFEST):-
 
