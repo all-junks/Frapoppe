@@ -15,3 +15,40 @@
 A Catppuccin-based (Original Catppuccin theme by Fausto-Korpsvart, based on the Catppuccin community theme) for Pop!_OS lovers like me. This was built all because the COSMIC Epoch DE was WAY too unstable for my Pop!_OS, but the only thing I liked in my horribly & mistakenly installed DE was the theme itself. So I decided to build this theme, just for you all & the best part is that you don't need to live with a terrible testing DE (No offence to System76 BTW)
 
 This theme's accent is based on the Catppuccin Frappé Sky accent theme
+
+## How to install theme (using ba(sh) / ./) (RECOMMENDED AS ITS MOST SAFEST):-
+
+· Open terinal & type:-
+<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; ./install.sh</pre>
+  OR
+<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; bash install.sh </pre>
+  OR
+<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; sh install.sh</pre>
+
+### NOTE:- You may need to restart / logout-login to your system before applying the theme
+
+## How to install theme (manually) (SECOND MOST RECOMMENDED AS IT MAY NOT WORK IN ALL DISTROS):-
+
+· Open terminal & type:-
+<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; mv Frapoppe-(theme) ~/.themes/</pre>
+
+### NOTE:- You may need to restart / logout-login to your system before applying the theme
+
+### NOTE:- If there is no <code>themes</code> folder, create it
+
+## How to install theme (manually) (MAY DAMAGE YOUR SYSTEM IF YOU'RE NOT CAREFUL):-
+
+· Open terminal & type:-
+<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; sudo mv Frapoppe-(theme) /usr/share/themes/</pre>
+
+OR
+
+· Open your file manager & move/copy the <code>Frapoppe-(theme)</code> folder to <code>/usr/share/themes/ </code> directory
+
+### NOTE:- You may need to restart / logout-login to your system before applying the theme
+
+## Credits:-
+
+Thanks to Fausto-Korpsvart for making the original theme. I am NOT affiliated with Fausto-Korpsvart nor the Catppuccin community, I just wanted to give everyone a modification of Fausto-Korpsvart's theme
+
+## 💕 Thanks a lot for using my theme! ❤️
