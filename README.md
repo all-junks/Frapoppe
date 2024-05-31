@@ -16,9 +16,7 @@ A Catppuccin-based (Original Catppuccin theme by Fausto-Korpsvart, based on the 
 
 This theme's accent is based on the Catppuccin Frappé Sky accent theme
 
-## NOTE:- Before you go through these steps, unzip the <code>Frapoppe-theme</code> zip file
-
-## How to install theme (using ba(sh) / ./) (RECOMMENDED AS ITS MOST SAFEST):-
+## How to install theme:-
 
 · Open terinal & type:-
 <pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; ./install.sh</pre>
@@ -26,26 +24,6 @@ This theme's accent is based on the Catppuccin Frappé Sky accent theme
 <pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; bash install.sh </pre>
   OR
 <pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; sh install.sh</pre>
-
-### NOTE:- You may need to restart / logout-login to your system before applying the theme
-
-## How to install theme (manually) (SECOND MOST RECOMMENDED AS IT MAY NOT WORK IN ALL DISTROS):-
-
-· Open terminal & type:-
-<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; mv Frapoppe-theme ~/.themes/</pre>
-
-### NOTE:- You may need to restart / logout-login to your system before applying the theme
-
-### NOTE:- If there is no <code>themes</code> folder, create it
-
-## How to install theme (manually) (MAY DAMAGE YOUR SYSTEM IF YOU'RE NOT CAREFUL):-
-
-· Open terminal & type:-
-<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; sudo mv Frapoppe-theme /usr/share/themes/</pre>
-
-OR
-
-· Open your file manager & move/copy the <code>Frapoppe-theme</code> folder to <code>/usr/share/themes/ </code> directory
 
 ### NOTE:- You may need to restart / logout-login to your system before applying the theme
 
