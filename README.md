@@ -18,10 +18,14 @@ This theme's accent is based on the Catppuccin Frappé Sky accent theme
 
 ## How to install theme:-
 
-· Open terinal & type:-
+· Open terminal & type:-
 <pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; ./install.sh</pre>
 
 ### NOTE:- You may need to restart / logout-login to your system before applying the theme
+
+· Open Gnome Tweaks and select theme <code>Frapoppe</code>
+
+### NOTE:- You must have <code>User Themes</code> extension installed if you use GNOME DE. Install it through the Gnome Extensions website
 
 ## Credits:-
 
