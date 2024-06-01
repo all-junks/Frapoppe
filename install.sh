@@ -21,7 +21,7 @@ select os in deb arch rhel suse
 do
     case $os in
         "deb")
-            sudo apt install gnome-tweak
+            sudo apt install gnome-tweaks
             break;;
         "arch")
             sudo pacman -S gnome-tweaks
