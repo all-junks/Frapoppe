@@ -1,11 +1,11 @@
 # <h1 align="center">Frapoppé</h1>
 
 <h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe.png"/></h1>
-<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-models/Frapoppe-Model-1.png"/></h1>
+<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-models-demos/Frapoppe-Model-1.png"/></h1>
 <h3 align="center"><em>Model 1 - Designated, "Interstellar"</em></h3>
-<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-models/Frapoppe-Model-2.png"/></h1>
+<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-models-demos/Frapoppe-Model-2.png"/></h1>
 <h3 align="center"><em>Model 2 - Designated, "Cosmic"</em></h3>
-<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-models/Frapoppe-Model-3.png"/></h1>
+<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-models-demos/Frapoppe-Model-3.png"/></h1>
 <h3 align="center"><em>Model 3 - Designated, "Classic"</em></h3>
 
 <h1 align="center">
