@@ -33,7 +33,7 @@ This theme's accent is based on the Catppuccin Frappé Sky accent theme
 
 ### NOTE:- You must have <code>User Themes</code> extension installed if you use GNOME DE. Install it through the Gnome Extensions website
 
-## Changelog (v1.0.2):-
+## Changelog (v1.0.3):-
 
 · Modified <code>install.sh</code> file
 
