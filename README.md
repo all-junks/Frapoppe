@@ -7,11 +7,11 @@
 <h3 align="center"><em>Model 2 - Designated, "Cosmic"</em></h3>
 <h1 align="center"><img width=750 src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Models/Frapoppe-Model-3.png"/></h1>
 <h3 align="center"><em>Model 3 - Designated, "Classic"</em></h3>
-<h3 align=center">
-  <img width="350" src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Demos/Frapoppe-Model-1.png"/>
-  <img width="350" src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Demos/Frapoppe-Model-2.png"/>
-</h3>
-<h3 align="center"><img width="350" src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Demos/Frapoppe-Model-3.png"/></h3>
+<h1 align="center">
+  <img width="380" src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Demos/Frapoppe-Model-1.png"/>
+  <img width="380" src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Demos/Frapoppe-Model-2.png"/>
+</h1>
+<h3 align="center"><img width="380" src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Demos/Frapoppe-Model-3.png"/></h3>
 <h3 align="center"><em>Model Demos</em></h3>
 
 <h1 align="center">
