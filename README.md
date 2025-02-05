@@ -1,12 +1,18 @@
 # <h1 align="center">Frapoppé</h1>
 
 <h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe.png"/></h1>
-<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-models-demos/Frapoppe-Model-1.png"/></h1>
-<h3 align="center"><em>Model 1 - Designated, "Interstellar"</em></h3>
-<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-models-demos/Frapoppe-Model-2.png"/></h1>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Models/Frapoppe-Model-1.png"/></h1>
+<h3 align="center"><<em>Model 1 - Designated, "Interstellar"</em></h3>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Models/Frapoppe-Model-2.png"/></h1>
 <h3 align="center"><em>Model 2 - Designated, "Cosmic"</em></h3>
-<h1 align="center"><img src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-models-demos/Frapoppe-Model-3.png"/></h1>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Models/Frapoppe-Model-3.png"/></h1>
 <h3 align="center"><em>Model 3 - Designated, "Classic"</em></h3>
+<h3 align=center">
+  <img width="500" src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Demos/Frapoppe-Model-1.png"/>
+  <img width="500" src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Demos/Frapoppe-Model-2.png"/>
+</h3>
+<h3 align="center"><img width="500" src="https://github.com/all-junks/Frapoppe/blob/main/Frapoppe-model-demos/Demos/Frapoppe-Model-3.png"/></h3>
+<h3 align="center"><em>Model Demos</em></h3>
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/OS-Linux_Only-f9e2af?style=for-the-badge&logo=linux&logoColor=f9e2af"/>
@@ -33,9 +39,7 @@ This theme's accent is based on the Catppuccin Frappé Sky accent theme
 
 ### NOTE:- You must have <code>User Themes</code> extension installed if you use GNOME DE. Install it through the Gnome Extensions website
 
-## Changelog (v1.0.3):-
-
-· Modified <code>install.sh</code> file
+## Changelog (v1.0.5):-
 
 · Modified <code>README.md</code> file
 
