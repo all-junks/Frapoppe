@@ -1,6 +1,6 @@
 #!/bin/bash
 
-unzip -q Frapoppe-themes.zip; rm Frapoppe-themes.zip; cd Frapoppe-themes/
+unzip -q Frapoppe-themes.zip; rm Frapoppe-themes.zip; cd Frapoppe-themes/; mkdir $HOME/.themes
 
 PS3="Select your model of choice: "
 
