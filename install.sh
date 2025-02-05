@@ -21,23 +21,9 @@ do
 	esac
 done
 
-PS3="Select your desktop env.: "
+PS3="Select your distro for installation of GNOME-Tweaks (ONLY FOR GNOME DESKTOP USERS, TYPE '5' FOR NON-GNOME DESKTOP USERS): "
 
-select de in GNOME Other
-do
-	case $de in 
-		"GNOME")
-			break;;
-		"Other")
-			exit 0;;
-        *)
-			echo "Invalid option. Retrying...";;
-	esac
-done
-
-PS3="Select your distro: "
-
-select os in deb arch rhel suse
+select os in deb arch rhel suse quit
 do
 	case $os in
 		"deb")
@@ -52,6 +38,8 @@ do
 		"suse")
 			sudo zypper install gnome-tweaks
 			break;;
+		"quit")
+  			exit 0;;
 		*)
 			echo "Invalid option. Retrying...";;
 	esac
