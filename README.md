@@ -31,7 +31,7 @@ This theme's accent is based on the Catppuccin Frappé Sky accent theme
 ## How to install theme:-
 
 · Open terminal & type:-
-<pre>git clone https://github.com/all-junks/Frapoppe.git; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; ./install.sh</pre>
+<pre>git clone https://github.com/all-junks/Frapoppe-GTK.git; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; ./install.sh</pre>
 
 ### NOTE:- You may need to restart / logout-login to your system before applying the theme
 
@@ -39,11 +39,9 @@ This theme's accent is based on the Catppuccin Frappé Sky accent theme
 
 ### NOTE:- You must have <code>User Themes</code> extension installed if you use GNOME DE. Install it through the Gnome Extensions website
 
-## Changelog (v1.0.8):-
+## Changelog (v1.0.9):-
 
 · Modified <code>install.sh</code> file
-
-· Modified <code>README.md</code> file
 
 ## Credits:-
 
